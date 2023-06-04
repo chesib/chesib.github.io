@@ -1,43 +1,47 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap");
 * {
-	font-family: "Roboto", sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 /* body  */
 
 header {
-	background-image: url("../img/pexels-miguel-á-padriñán-255379.jpg");
-	background-repeat: no-repeat;
-	background-size: cover;
+  background-image: url("../img/pexels-miguel-á-padriñán-255379.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 .imgFirst {
-	object-fit: cover;
+  object-fit: cover;
 }
 
 .Educacion {
-	background-color: azure;
-	margin: auto;
+  background-color: azure;
+  margin: auto;
 }
 ul {
-	list-style-position: inside;
-	padding-left: 0;
+  list-style-position: inside;
+  padding-left: 0;
 }
 
 .Portafolio .image-top {
-	height: 250px;
+  height: 250px;
 
-	background-repeat: no-repeat;
+  background-repeat: no-repeat;
 
-	background-position: center;
+  background-position: center;
 }
 
 .exp {
-	background-color: azure;
-	margin: auto;
+  background-color: azure;
+  margin: auto;
 }
 
 /* estilo cardIguana editado por daniela */
-.cardIguana{
-	padding-bottom: 2.5rem;
-
+.cardIguana {
+  padding-bottom: 2.5rem;
 }
 /* estilo cardIguana editado por daniela */
+
+/* Cambio de tamaño de font por Dominique */
+.container p {
+  font-size: 2rem;
+}
